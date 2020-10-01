@@ -6,6 +6,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Full Stack Development 
 - 👯  I'm a Competitive Coder,Photographer, 💻 Data Science enthusiast, 📱Android enthusiast.
 - 💬 Ask me about anything
-- 📫 How to reach me: ...
+- 📫 How to reach me:Mail :abhishek47472@gmail.com
 - 😄 Pronouns: He/His
-Reach me at : Mail :abhishek47472@gmail.com
+
